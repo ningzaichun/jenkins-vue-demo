@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="我是宁在春，关于这篇文章，希望你能有所收获，我正在测试自动化部署！"/>
+  <HelloWorld msg="我是宁在春，关于这篇文章，希望你能有所收获，我正在测试自动化构建后发送邮件任务！"/>
 </template>
 
 <script>
